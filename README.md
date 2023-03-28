@@ -11,3 +11,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0blank&theme=dark&layout=compact)
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=x0blank&show_icons=true&theme=dark&count_private=true) -->
 ![](https://activity-graph.herokuapp.com/graph?username=x0blank&theme=github)
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=x0blank&theme=xcode" />
+</div>
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=x0blank&theme=xcode)](https://github.com/x0blank)
