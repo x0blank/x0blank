@@ -5,7 +5,7 @@
 
 
 
-<!-- <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=x0blank" /> </div> -->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=x0blank" /> </div>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0blank&theme=dark&layout=compact)
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=x0blank&show_icons=true&theme=dark&count_private=true) -->
