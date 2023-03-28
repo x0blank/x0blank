@@ -6,7 +6,7 @@
 ♿ ⚠️ ⛔ ☢️☣️⬆️↗️➡️↘️⬇️↙️⬅️↖️↕️↔️↩️↪️⤴️⤵️♿ ⚠️ ⛔ ☢️☣️⬆️↗️➡️↘️⬇️↙️⬅️↖️↕️↔️↩️↪️⤴️⤵️☀️ ⭐ ☁️⛅⚡
 
 
-    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0blank&theme=dark&layout=compact)
+![Most Used Languages]<align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=x0blank&theme=dark&layout=compact)
     <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=x0blank&show_icons=true&theme=dark&count_private=true) -->
-    ![](https://activity-graph.herokuapp.com/graph?username=x0blank&theme=github)
+ ![](https://activity-graph.herokuapp.com/graph?username=x0blank&theme=github)
 
